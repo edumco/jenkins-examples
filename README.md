@@ -18,6 +18,6 @@ The examples uses only free software.
 
 Each example has a folder with the artifacts and instructions needed to be used and are organized by simplicity so you can start quickly and evolve to more complex setups in time.
 
-## Examples list
+## Examples
 
-1. Local instalation sharing docker sock
+1. [Local instalation sharing docker sock](https://github.com/edumco/jenkins-examples/tree/master/local-install)
