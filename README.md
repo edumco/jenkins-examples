@@ -2,6 +2,8 @@
 
 ![jenkins logo](https://github.com/edumco/jenkins-examples/raw/master/logo.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/392979a83cd1494ab8969900f7240561)](https://www.codacy.com/manual/edumco/jenkins-examples?utm_source=github.com&utm_medium=referral&utm_content=edumco/jenkins-examples&utm_campaign=Badge_Grade)
+
 ## What is Jenkins
 
 Jenkins an automation server where you can schedule tests, builds and any other repetitive task where you can use a script.
