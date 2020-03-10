@@ -4,14 +4,17 @@ A machine or VM with the native Jenkins instalation sharing the docker sock.
 
 This technique allows the Jenkins machine to use the inner connection of Docker.
 
-## The good
+## The good, the bad and the ugly
 
-Easy to implement on small projects.
+Althought easy to implement on small projects the Workloads are executed on the same machine used by Jenkins master and there are several concerns about security cause the Docker services run as root user.
 
-## The bad
+## Install Java
 
-Workloads are execute on the same machine used by Jenkins master
 
-## The ugly
+## Install Docker
 
-There are several concerns about security cause the Docker services run as root user
+
+## Install Jenkins
+
+
+## Add Jenkins to Docker group
