@@ -49,7 +49,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Permite executar o docker sem o sudo
 sudo groupadd docker
-sudo usermod -aG docker $USER
+sudo usermod -aG docker "$USER"
 newgrp docker
 
 # Adiciona comand completion
@@ -57,7 +57,5 @@ sudo curl -L https://raw.githubusercontent.com/docker/compose/1.24.1/contrib/com
 
 
 # Adiciona o jenkins ao grupo root
-sudo gpasswd -a jenkins root
-
-# Reinicia o docker
+sudo gpasswd -a jenkins rootto prevent globbing and word splitting
 sudo service docker restart
