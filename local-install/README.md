@@ -10,17 +10,17 @@ Althought easy to implement on small projects the Workloads are executed on the 
 
 ## Install Java
 
-Install the openJDK 8 following the instructions at https://openjdk.java.net/install/
+Install the openJDK 8 following the instructions at <https://openjdk.java.net/install/>
 
 ## Install Jenkins
 
-- Download the latest LTS version from https://jenkins.io/download/
-- Folow the steps to configure the instalation at https://jenkins.io/doc/pipeline/tour/getting-started/
+- Download the latest LTS version from <https://jenkins.io/download/>
+- Folow the steps to configure the instalation at <https://jenkins.io/doc/pipeline/tour/getting-started/>
 - After instalation, add the Pipeline plugins (some plugins will be added as dependencies)
 
 ## Install Docker
 
-Execute the instalation script "install-docker.sh" or folow instructions at https://docs.docker.com/install/
+Execute the instalation script "install-docker.sh" or folow instructions at <https://docs.docker.com/install/>
 
 ## Add Jenkins to Docker group
 
