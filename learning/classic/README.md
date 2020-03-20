@@ -1,4 +1,4 @@
-# Classic Jenkins
+# Classic Jenkins Instalation
 
 A machine or VM with the native Jenkins instalation and all tools necessary for build and test projects.
 
