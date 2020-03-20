@@ -1,10 +1,7 @@
 #!/bin/bash
 
+# Updates the server
 sudo apt update && sudo apt upgrade -y
-
-################################################################
-########                  Docker                     ###########
-################################################################
 
 # Limpa versões antigas do Docker
 sudo apt remove -y docker docker-engine docker.io containerd runc \
