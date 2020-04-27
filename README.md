@@ -1,5 +1,7 @@
 # Jenkins Examples 🤵
 
+Some examples of installation and usage of Jenkins Automation Server
+
 ![GitHub](https://img.shields.io/github/license/edumco/jenkins-examples)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/392979a83cd1494ab8969900f7240561)](https://www.codacy.com/manual/edumco/jenkins-examples?utm_source=github.com&utm_medium=referral&utm_content=edumco/jenkins-examples&utm_campaign=Badge_Grade)
 
@@ -9,11 +11,17 @@ Jenkins an automation server where you can schedule tests, builds and any other 
 
 To learn more aboout Jenkins visit <https://jenkins.io/>
 
-## What are theese examples
-
 Theese are a collection of recipees on installing and using Jenkins on your projects.
 
-## How to use it
+## Instalation
+
+1. Download or clone this repository.
+
+2. Navigate to the example you wanna use.
+
+3. Add execution permitions to the files you want execute.
+
+## Usage
 
 Each example has a folder with the artifacts and instructions needed to be used and are ordered by complexity (Simpler first) so you can start quickly and evolve to more robust setups in time.
 
