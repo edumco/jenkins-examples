@@ -31,9 +31,9 @@ To try the examples you gonna need:
 
 - Install the Ubuntu Server 18.04 LTS 🐧 (Try always use a LTS version)
 
-## Examples
+### Examples
 
-### Learning
+#### Learning
 
 1. [Classic installation](learning/classic/README.md)
 
@@ -55,7 +55,7 @@ To try the examples you gonna need:
 
 10. User autentication
 
-### Scaling
+#### Scaling
 
 1. [Connect with local Docker](learning/classic-docker/README.md)
 
@@ -65,7 +65,7 @@ To try the examples you gonna need:
 
 4. Publishing Container Images
 
-### Securing
+#### Securing
 
 1. Backup
 
@@ -79,7 +79,7 @@ To try the examples you gonna need:
 
 6. Network
 
-### Shipping
+#### Shipping
 
 1. Jenkins as a container
 
@@ -88,3 +88,7 @@ To try the examples you gonna need:
 3. Cloud Native Orchestration
 
 4. On Demand Provisioning
+
+## License
+
+[MIT License](LICENSE)
