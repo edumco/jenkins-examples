@@ -1,4 +1,4 @@
-# Pluguins installation
+# Plugins installation
 
 ## Tutorials
 
