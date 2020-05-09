@@ -35,9 +35,9 @@ To try the examples you gonna need:
 
 #### Learning
 
-1. [Classic installation](learning/classic/README.md)
+1. [Classic installation](examples/classic/README.md)
 
-2. [Plugins Installation](learning/classic/plugins-installation.md)
+2. [Plugins Installation](examples/plugins-installation.md)
 
 3. Simple tasks
 
@@ -57,7 +57,7 @@ To try the examples you gonna need:
 
 #### Scaling
 
-1. [Connect with local Docker](learning/classic-docker/README.md)
+1. [Connect with local Docker](examples/classic-docker/README.md)
 
 2. Conecting with slaves
 
