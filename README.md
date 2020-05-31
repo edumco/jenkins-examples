@@ -35,33 +35,35 @@ To try the examples you gonna need:
 
 #### Learning
 
-1. [Classic installation](examples/classic/README.md)
+1. [Classic installation](examples/classic/readme.md)
 
 2. [Plugins Installation](examples/plugins-installation.md)
 
-3. Simple tasks
+3. [Docker installation](examples/docker-installation/readme.md)
 
-4. Basic Pipelines
+4. Simple tasks
 
-5. Declarative Pipelines
+5. Basic Pipelines
 
-6. Blue Ocean Interface
+6. Declarative Pipelines
 
-7. Tests reports
+7. Blue Ocean Interface
 
-8. Build artifacts
+8. Tests reports
 
-9. Web hooks
+9. Build artifacts
 
-10. User autentication
+10. Web hooks
+
+11. User authentication
 
 #### Scaling
 
 1. [Connect with local Docker](examples/classic-docker/README.md)
 
-2. Conecting with slaves
+2. Connecting with slaves
 
-3. Conecting with Docker slaves
+3. Connecting with Docker slaves
 
 4. Publishing Container Images
 
