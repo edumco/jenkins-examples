@@ -9,17 +9,17 @@ Some examples of installation and usage of Jenkins Automation Server
 
 Jenkins an automation server where you can schedule tests, builds and any other repetitive task where you can use a script.
 
-To learn more aboout Jenkins visit <https://jenkins.io/>
+To learn more about Jenkins visit <https://jenkins.io/>
 
-Theese are a collection of recipees on installing and using Jenkins on your projects.
+This is a collection of recipes on installing and using Jenkins on your projects.
 
-## Instalation
+## Installation
 
 1. Download or clone this repository.
 
 2. Navigate to the example you wanna use.
 
-3. Add execution permitions to the files you want execute.
+3. Add execution permissions to the files you want execute.
 
 ## Usage
 
