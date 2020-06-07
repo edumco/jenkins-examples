@@ -27,7 +27,7 @@ A machine or VM with the native Jenkins installation and all tools necessary for
 
   - Follow the steps to configure the instalation at <https://jenkins.io/doc/pipeline/tour/getting-started/>
 
-  - After installation add some plugins by following the [plugins installation guide](plugins-installation.md).
+  - After installation add some plugins by following the [plugins installation guide](../plugins-installation.md).
 
   - Add a JENKINS_HOME variable on your environment
 
