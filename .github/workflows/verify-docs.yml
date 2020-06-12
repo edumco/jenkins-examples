@@ -9,6 +9,7 @@ on:
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
     - uses: actions/checkout@v2
     - name: markdown-link-check
@@ -16,6 +17,7 @@ jobs:
       
   spellcheck:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
     - name: Spellcheck Action
       uses: rojopolis/spellcheck-github-actions@0.5.0
