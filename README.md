@@ -35,11 +35,11 @@ To try the examples you gonna need:
 
 #### Learning
 
-1. [Classic installation](examples/classic/readme.md)
+1. [Classic installation](docs/classic/readme.md)
 
-2. [Plugins Installation](examples/plugins-installation.md)
+2. [Plugins Installation](docs/plugins-installation.md)
 
-3. [Docker installation](examples/docker-installation/readme.md)
+3. [Docker installation](docs/docker-installation/readme.md)
 
 4. Simple tasks
 
@@ -59,7 +59,7 @@ To try the examples you gonna need:
 
 #### Scaling
 
-1. [Connect with local Docker](examples/classic-docker/README.md)
+1. [Connect with local Docker](docs/classic-docker/README.md)
 
 2. Connecting with slaves
 
