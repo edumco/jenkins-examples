@@ -7,7 +7,6 @@ matrix:
     aspell:
       lang: en
     dictionary:
-      wordlists:
       encoding: utf-8
     pipeline:
       - pyspelling.filters.markdown:
