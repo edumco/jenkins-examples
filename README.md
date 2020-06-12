@@ -59,7 +59,7 @@ To try the examples you gonna need:
 
 #### Scaling
 
-1. [Connect with local Docker](docs/classic-docker/README.md)
+1. [Connect with local Docker](docs/classic-docker/readme.md)
 
 2. Connecting with slaves
 
