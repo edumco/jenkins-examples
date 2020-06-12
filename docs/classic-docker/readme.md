@@ -25,6 +25,6 @@ This technique puts the Jenkins server and Docker on the same machine allows the
 
 - Execute the installation script "install-docker.sh"
 
-- Add the recommend plugins on [plugins installation guide](../classic/plugins-installation.md)]
+- Add the recommend plugins on [plugins installation guide](../plugins-installation.md)
 
 - Configure the docker.sock location on Settings/Jenkins (normally /usr/bin/).
