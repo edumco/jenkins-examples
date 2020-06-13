@@ -27,7 +27,7 @@ Each example has a folder with the artifacts and instructions needed to be used 
 
 To try the examples you gonna need:
 
-- A machine or VM with at least 8GB ram and 32Gb of disk (4GB is ok for learning)
+- A machine or VM with at least 8GB ram and 32GB of disk (4GB is enough for learning)
 
 - Install the Ubuntu Server 18.04 LTS 🐧 (Try always use a LTS version)
 
