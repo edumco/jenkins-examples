@@ -5,7 +5,7 @@ A machine or VM with the native Jenkins installation and all tools necessary for
 ## Pros
 
 - Easy to understand
-- Helps learners to understand details of build tools and enviroments
+- Helps learners to understand details of build tools and environments
 
 ## Cons
 
@@ -17,15 +17,15 @@ A machine or VM with the native Jenkins installation and all tools necessary for
 
 - Install Java ☕
 
-  - Install the openJDK8 following the instructions at <https://openjdk.java.net/install/>
+  - Install the OpenJDK8 following the instructions at <https://openjdk.java.net/install/>
 
-  - Add a JAVA_HOME enviroment variable pointing to your instalation
+  - Add a JAVA_HOME environment variable pointing to your installation
 
 - Install Jenkins 🤵
 
   - Download the latest LTS version from <https://jenkins.io/download/>
 
-  - Follow the steps to configure the instalation at <https://jenkins.io/doc/pipeline/tour/getting-started/>
+  - Follow the steps to configure the installation at <https://jenkins.io/doc/pipeline/tour/getting-started/>
 
   - After installation add some plugins by following the [plugins installation guide](../plugins-installation.md).
 
