@@ -1,9 +1,11 @@
 #_TECH_NAMES
 linux
+usr
 dockerfile
 Gravatar
 https
 jenkins
+io
 LTS
 NodeJS
 NPM
