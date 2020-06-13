@@ -12,4 +12,4 @@ The LTS tag for production and the weekly latest for evaluation
 
 This image contains all the good stuff you're going to need and its based on the official LTS.
 
-I recommend to make a fork from the original repo and tweak for your project needs.
+I recommend to make a fork from the original repository and tweak it for your project needs.
