@@ -2,11 +2,11 @@
 
 ## Tutorials
 
-In the [automation-resoources repository](https://github.com/edumco/automation-resources) there are several tutorials and courses available (many of them are free).
+In the [automation-resources repository](https://github.com/edumco/automation-resources) there are several tutorials and courses available (many of them are free).
 
-## Essencial Plugins
+## Essential Plugins
 
-Some plugins unblock a giant set of funcionality on Jenkins so you really need to read about them to see if they fit your neeeds. Here are some of my favorits:
+Some plugins unblock a giant set of functionality on Jenkins so you really need to read about them to see if they fit your needs. Here are some of my favorites:
 
 ### 1. [Pipeline](https://plugins.jenkins.io/workflow-aggregator/)
 
@@ -24,4 +24,4 @@ Some plugins unblock a giant set of funcionality on Jenkins so you really need t
 
 ## Build tools
 
-For every program language there is a a Jenkins plugin that can facilitate your build project. But with the Docker instegration you probabily wont need any pluguin.
+For every program language there is a a Jenkins plugin that can facilitate your build project. But with the Docker integration you probably wont need any plugin.
