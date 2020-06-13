@@ -1,1 +1,12 @@
-
+#_TECH_NAMES
+linux
+dockerfile
+Gravatar
+https
+jenkins
+LTS
+NodeJS
+NPM
+VM
+#_PERSON_NAMES
+saidsef
