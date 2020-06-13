@@ -19,7 +19,7 @@ This technique puts the Jenkins server and Docker on the same machine allows the
 
 ## Steps
 
-- Execute the steps of the classic instalation or reuse your installation.
+- Execute the steps of the classic installation or reuse your installation.
 
 - Install Docker 🐋
 
