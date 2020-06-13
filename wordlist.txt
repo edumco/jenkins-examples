@@ -9,6 +9,8 @@ io
 LTS
 NodeJS
 NPM
+OpenJDK
+openjdk
 VM
 #_PERSON_NAMES
 saidsef
