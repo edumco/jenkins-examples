@@ -6,7 +6,9 @@ Gravatar
 https
 jenkins
 io
+localhost
 LTS
+lts
 NodeJS
 NPM
 OpenJDK
