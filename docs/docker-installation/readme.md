@@ -4,7 +4,7 @@ Running Jenkins on a container might give you more flexibility.
 
 ## Choose an image
 
-You have to choose an image an run the container ataching a persistent volume and 
+You have to choose an image an run the container attaching a persistent volume and 
 
 I recommend the following images:
 
@@ -14,7 +14,7 @@ I recommend the following images:
 
 ## Use volumes
 
-Containers are disposeble so to keep data you should create a volume to replace your `jenkins_home` folder where all your data resides.
+Containers are disposable so to keep data you should create a volume to replace your `jenkins_home` folder where all your data resides.
 
 This can be done on command line with the `-v` flag 
 
@@ -26,7 +26,7 @@ This can be read like:
 
 > Create a volume called `jenkins_home` and overlay the folder `/var/jenkins_home` inside the container with this new volume.
 
-Docker uses layers to manipulade data, every layer adds more data without erasing the previous layer so you dont have to create full copies of file systems. An overlay is just a folder/file that replaces the original read-only so you can put data in the overlay and keep it between executions or even reuse it in new containers.
+Docker uses layers to handle data, every layer adds more data without erasing the previous layer so you don't have to create full copies of file systems. An overlay is just a folder/file that replaces the original read-only so you can put data in the overlay and keep it between executions or even reuse it in new containers.
 
 ## Enable network ports
 
@@ -49,7 +49,7 @@ You can plug any free port on your machine with the port inside the container as
 -p 5152:8080
 ```
 
-Jenkins uses the 8080 port to show the web interface and the 5000 to acess the worker nodes so you have to use the -p flag twice
+Jenkins uses the 8080 port to show the web interface and the 5000 to access the worker nodes so you have to use the -p flag twice
 
 ```bash
 -p 8080:8080 -p 50000:50000 
@@ -63,4 +63,4 @@ Run the command:
 docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
 ```
 
-After some download and messages you'll be able to access Jenkins from your browser using the url <<localhost:8080>>.
+After some download and messages you'll be able to access Jenkins from your browser with the address: [localhost:8080](localhost:8080)
