@@ -62,9 +62,9 @@ To try the examples you gonna need:
 
 1. [Connect with local Docker](docs/classic-docker/readme.md)
 
-2. Connecting with slaves
+2. Connecting with agents
 
-3. Connecting with Docker slaves
+3. Connecting with Docker agents
 
 4. Publishing Container Images
 
