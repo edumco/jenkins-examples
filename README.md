@@ -3,7 +3,6 @@
 Some examples of installation and usage of Jenkins Automation Server
 
 ![GitHub](https://img.shields.io/github/license/edumco/jenkins-examples)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/392979a83cd1494ab8969900f7240561)](https://www.codacy.com/manual/edumco/jenkins-examples?utm_source=github.com&utm_medium=referral&utm_content=edumco/jenkins-examples&utm_campaign=Badge_Grade)
 ![Verify Documentation](https://github.com/edumco/jenkins-examples/workflows/Verify%20Documentation/badge.svg)
 
 ## About
